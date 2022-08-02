@@ -1,5 +1,5 @@
 ---
-title: "安裝EndeavourOS後該做的事情"
+title: "安裝EndeavourOS後做的六件事。"
 date: 2022-08-03T00:27:06+08:00
 draft: false
 cover:
@@ -18,15 +18,15 @@ keywords:
 - Linux
 - EndeavourOS
 - 軟體介紹
-description: "上篇文介紹到了基於Arch的Linux發行版，這篇文萊說說之後所作的事情"
+description: "上上篇文介紹到了基於Arch的Linux發行版，這篇文來說說之後所作的事情。"
 ---
 
-何大家分享一下身為中文用戶，在安裝完EndeavourOS以後所作的事情，雖然說是分享，但裡面的內容更多是給我自己做一個安裝筆記，內文中的軟體很多都是我自己平常愛用的幾款，大家可以自行挑選常用的去做選擇。
+和大家分享一下身為中文用戶，在安裝EndeavourOS以後所作的事情，雖然說是分享，但裡面的內容更多是給我自己做一個安裝筆記，內文中的軟體是自己平常常用的幾款，大家可以自行挑選常用的去做選擇。
 
 # Things after install EndeavoursOS
 
 ## 常用軟體
-小弟愛用的幾款軟體：用來編輯文章及寫點小東西的[neovim](https://neovim.io/),[VScode](https://archlinux.org/packages/community/x86_64/code/)、更改終端機界面的[zsh](https://wiki.archlinux.org/title/Zsh)內容需要再配置，之後會在和大家分享、功能豐富的靜態網頁生產器[hugo](https://gohugo.io/)、同步手機與電腦檔案的[Syncthing](https://syncthing.net/)、強大的影片下載軟體[yt-dlp](https://github.com/yt-dlp/yt-dlp)、以及常用的通訊軟體[signal](https://www.signal.org/)與[telegram](https://telegram.org/)但說實在telegram越來越爛了，實在也不一定要繼續使用。
+小弟愛用的幾款軟體：用來編輯文章及寫點小東西的[neovim](https://neovim.io/),[VScode](https://archlinux.org/packages/community/x86_64/code/)、更改終端機界面的[zsh](https://wiki.archlinux.org/title/Zsh)內容需要再配置，之後會在和大家分享、功能豐富的靜態網頁生產器[hugo](https://gohugo.io/)、同步手機與電腦檔案的[Syncthing](https://syncthing.net/)、強大的影片下載軟體[yt-dlp](https://github.com/yt-dlp/yt-dlp)、以及常用的通訊軟體[signal](https://www.signal.org/)與[telegram](https://telegram.org/)。
 
 ```
 sudo pacman -S neovim code zsh hugo syncthing yt-dlp signal-desktop telegram-desktop firefox
@@ -86,5 +86,7 @@ sudo pacman -S blueberry
 
 # 參考資料
 [ArchLinux安装后的必须配置与图形界面安装教程](https://www.viseator.com/2017/05/19/arch_setup/)
+
 [从零开始配置自己的Arch Linux桌面（极简）](https://zhuanlan.zhihu.com/p/112536524)
+
 [EndeavourOS文章](https://discovery.endeavouros.com/bluetooth/bluetooth/2021/03/)
