@@ -3,7 +3,7 @@ title: "更換shell，讓終端機更好用—ZSH簡易配置"
 date: 2022-08-09T22:17:28+08:00
 draft: false
 cover:
-    image: ""
+    image: "/img/zsh.jpg"
     alt: ""
     caption: ""
 categories: 
