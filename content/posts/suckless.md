@@ -3,7 +3,7 @@ title: "Suckless，極簡主義的軟體開發團隊。"
 date: 2022-08-13T23:36:28+08:00
 draft: false
 cover:
-    image: ""
+    image: "/img/suckless.jpg"
     alt: ""
     caption: ""
 categories: 
