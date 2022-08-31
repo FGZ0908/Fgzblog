@@ -1,7 +1,7 @@
 ---
 title: "婚紗拍攝完成"
 date: 2022-08-23T22:43:39+08:00
-draft: true
+draft: false
 cover:
     image: "/img/20220823.jpg"
     alt: ""
