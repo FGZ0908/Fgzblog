@@ -82,12 +82,12 @@ keywords = [ "Blog", "跑步", "PaperMod", "生活雜記", "自由軟體", "F-Dr
  Content = """
  歡迎來到我的個人網站，這裡會分享一些我的日常雜記、閱讀心得、好用的軟硬體分享，下方連結可以到我的個人臉書、YouTube…等連結，也歡迎使用RSS訂閱本站。            
  """
- [[params.socialIcons]]
- name = "facebook"
- url = "https://www.facebook.com/gangzhef/"
- [[params.socialIcons]]
- name = "telegram"
- url = "https://t.me/j74127412"
+ #[[params.socialIcons]]
+ #name = "facebook"
+ #url = "https://www.facebook.com/gangzhef/"
+ #[[params.socialIcons]]
+ #name = "telegram"
+ #url = "https://t.me/j74127412"
  [[params.socialIcons]]
  name = "email"
  url = "mailto:j74127412@protonmail.com"
