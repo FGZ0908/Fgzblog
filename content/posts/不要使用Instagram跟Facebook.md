@@ -3,7 +3,7 @@ title: "不要使用Instagram跟Facebook"
 date: 2022-10-02T21:43:43+08:00
 draft: false
 cover:
-    image: ""
+    image: "/img/facebooksuck.jpg"
     alt: ""
     caption: ""
 categories: 
