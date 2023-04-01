@@ -9,6 +9,7 @@ cover:
 categories: 
 - 爬山
 - 生活雜記
+- 運動
 tags: 
 - 獅頭山
 - 爬山
