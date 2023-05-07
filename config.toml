@@ -78,7 +78,7 @@ keywords = [ "Blog", "跑步", "PaperMod", "生活雜記", "自由軟體", "F-Dr
 
  [params.homeInfoParams]
  enabled =true
- Title = "Hello，我是剛哲，歡迎來到我的網站。"
+ Title = "Hello,在這裡遇見你真好，歡迎來到我的網站。"
  Content = """
  歡迎來到我的個人網站，這裡會分享一些我的日常雜記、閱讀心得、好用的軟硬體分享，下方連結可以到我的個人臉書、YouTube…等連結，也歡迎使用RSS訂閱本站。            
  """
