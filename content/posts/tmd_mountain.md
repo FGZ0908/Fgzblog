@@ -1,7 +1,7 @@
 ---
 title: "唐麻丹山"
 date: 2023-09-04T22:19:15+08:00
-draft: true
+draft: false
 cover:
     image: "/img/tmd_mountain.jpg"
     alt: ""
@@ -12,7 +12,7 @@ categories:
 tags: 
 - 爬山
 - 谷關七雄
-description: "年初和老婆去爬了一座谷關七雄，留下一點紀錄。"
+description: "結婚前和老婆去爬了一座谷關七雄，留下一點紀錄。"
 ---
 
 在今年清明連假期間，和老婆一起去谷關爬了最輕鬆的一座但對我們而言還是有挑戰性的一座山─唐麻丹山。
