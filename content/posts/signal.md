@@ -1,7 +1,7 @@
 ---
 title: "請改用Signal，停止使用 Line,Messenger 等垃圾 App。"
 date: 2023-09-26T14:27:29+08:00
-draft: true
+draft: false
 cover:
     image: "/img/signal.jpg"
     alt: ""
