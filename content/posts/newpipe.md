@@ -1,5 +1,5 @@
 ---
-title: "無廣告，Android手機上看YouTube的最佳解-Newpipe"
+title: "Newpipe-無廣告，Android手機上看YouTube的最佳解"
 date: 2022-06-25T23:16:32+08:00
 draft: flase
 cover:
