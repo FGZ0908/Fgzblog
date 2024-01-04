@@ -1,5 +1,5 @@
 ---
-title: "Grapheneos_android_auto"
+title: "GrapheneOS 迎來重大更新，加入 Android Auto 系統！"
 date: 2024-01-04T21:17:09+08:00
 draft: false
 cover:
