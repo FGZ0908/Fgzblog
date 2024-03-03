@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dcard on 剛哲的個人網站</title>
+    <link>http://localhost:1313/zh-tw/tags/dcard/</link>
+    <description>Recent content in Dcard on 剛哲的個人網站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 27 Jan 2024 22:06:15 +0800</lastBuildDate><atom:link href="http://localhost:1313/zh-tw/tags/dcard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>少看Ptt,Dcard等論壇，讓你人生更美好。</title>
+      <link>http://localhost:1313/zh-tw/2024/01/%E5%B0%91%E7%9C%8Bpttdcard%E7%AD%89%E8%AB%96%E5%A3%87%E8%AE%93%E4%BD%A0%E4%BA%BA%E7%94%9F%E6%9B%B4%E7%BE%8E%E5%A5%BD/</link>
+      <pubDate>Sat, 27 Jan 2024 22:06:15 +0800</pubDate>
+      
+      <guid>http://localhost:1313/zh-tw/2024/01/%E5%B0%91%E7%9C%8Bpttdcard%E7%AD%89%E8%AB%96%E5%A3%87%E8%AE%93%E4%BD%A0%E4%BA%BA%E7%94%9F%E6%9B%B4%E7%BE%8E%E5%A5%BD/</guid>
+      <description>一位鄉民與大家分享對網路社群的看法。</description>
+    </item>
+    
+  </channel>
+</rss>

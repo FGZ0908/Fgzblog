@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Archlinux on 剛哲的個人網站</title>
+    <link>http://localhost:1313/zh-tw/tags/archlinux/</link>
+    <description>Recent content in Archlinux on 剛哲的個人網站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 20 Mar 2023 22:18:12 +0800</lastBuildDate><atom:link href="http://localhost:1313/zh-tw/tags/archlinux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我也開始用Archlinux了</title>
+      <link>http://localhost:1313/zh-tw/2023/03/%E6%88%91%E4%B9%9F%E9%96%8B%E5%A7%8B%E7%94%A8archlinux%E4%BA%86/</link>
+      <pubDate>Mon, 20 Mar 2023 22:18:12 +0800</pubDate>
+      
+      <guid>http://localhost:1313/zh-tw/2023/03/%E6%88%91%E4%B9%9F%E9%96%8B%E5%A7%8B%E7%94%A8archlinux%E4%BA%86/</guid>
+      <description>用了一陣子的 EndeavourOS，最終還是回到 Archlinux 的懷抱。</description>
+    </item>
+    
+    <item>
+      <title>在 ArchLinux 中載入（掛載）隨身碟的方法。</title>
+      <link>http://localhost:1313/zh-tw/2022/09/%E5%9C%A8-archlinux-%E4%B8%AD%E8%BC%89%E5%85%A5%E6%8E%9B%E8%BC%89%E9%9A%A8%E8%BA%AB%E7%A2%9F%E7%9A%84%E6%96%B9%E6%B3%95/</link>
+      <pubDate>Sun, 04 Sep 2022 18:30:30 +0800</pubDate>
+      
+      <guid>http://localhost:1313/zh-tw/2022/09/%E5%9C%A8-archlinux-%E4%B8%AD%E8%BC%89%E5%85%A5%E6%8E%9B%E8%BC%89%E9%9A%A8%E8%BA%AB%E7%A2%9F%E7%9A%84%E6%96%B9%E6%B3%95/</guid>
+      <description>重新安裝了作業系統，開始使用 ArchLinux，今天遇上了掛載 USB 隨身碟的問題，順便紀錄一下。</description>
+    </item>
+    
+    <item>
+      <title>更換shell，讓終端機更好用—ZSH簡易配置</title>
+      <link>http://localhost:1313/zh-tw/2022/08/%E6%9B%B4%E6%8F%9Bshell%E8%AE%93%E7%B5%82%E7%AB%AF%E6%A9%9F%E6%9B%B4%E5%A5%BD%E7%94%A8zsh%E7%B0%A1%E6%98%93%E9%85%8D%E7%BD%AE/</link>
+      <pubDate>Tue, 09 Aug 2022 22:17:28 +0800</pubDate>
+      
+      <guid>http://localhost:1313/zh-tw/2022/08/%E6%9B%B4%E6%8F%9Bshell%E8%AE%93%E7%B5%82%E7%AB%AF%E6%A9%9F%E6%9B%B4%E5%A5%BD%E7%94%A8zsh%E7%B0%A1%E6%98%93%E9%85%8D%E7%BD%AE/</guid>
+      <description>介紹一下簡易配置的 zsh </description>
+    </item>
+    
+  </channel>
+</rss>

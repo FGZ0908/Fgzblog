@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>YouTube on 剛哲的個人網站</title>
+    <link>http://localhost:1313/zh-tw/tags/youtube/</link>
+    <description>Recent content in YouTube on 剛哲的個人網站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 25 Jun 2022 23:16:32 +0800</lastBuildDate><atom:link href="http://localhost:1313/zh-tw/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Newpipe-無廣告，Android手機上看YouTube的最佳解</title>
+      <link>http://localhost:1313/zh-tw/2022/06/newpipe-%E7%84%A1%E5%BB%A3%E5%91%8Aandroid%E6%89%8B%E6%A9%9F%E4%B8%8A%E7%9C%8Byoutube%E7%9A%84%E6%9C%80%E4%BD%B3%E8%A7%A3/</link>
+      <pubDate>Sat, 25 Jun 2022 23:16:32 +0800</pubDate>
+      
+      <guid>http://localhost:1313/zh-tw/2022/06/newpipe-%E7%84%A1%E5%BB%A3%E5%91%8Aandroid%E6%89%8B%E6%A9%9F%E4%B8%8A%E7%9C%8Byoutube%E7%9A%84%E6%9C%80%E4%BD%B3%E8%A7%A3/</guid>
+      <description>看Youtube廣告真的很煩，又不想花錢買Premium嗎？</description>
+    </item>
+    
+  </channel>
+</rss>
