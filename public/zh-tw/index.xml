@@ -1,19 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>剛哲的個人網站</title>
+    <title>范剛哲的部落格</title>
     <link>http://localhost:1313/zh-tw/</link>
-    <description>Recent content on 剛哲的個人網站</description>
+    <description>Recent content on 范剛哲的部落格</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 30 Apr 2024 17:12:53 +0800</lastBuildDate><atom:link href="http://localhost:1313/zh-tw/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Sep 2024 17:31:29 +0800</lastBuildDate><atom:link href="http://localhost:1313/zh-tw/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>孩子出生了！</title>
-      <link>http://localhost:1313/zh-tw/2024/04/%E5%AD%A9%E5%AD%90%E5%87%BA%E7%94%9F%E4%BA%86/</link>
+      <title>Android TV 觀看 YouTube 的最佳方法 ─ SmartTube</title>
+      <link>http://localhost:1313/zh-tw/2024/09/android-tv-%E8%A7%80%E7%9C%8B-youtube-%E7%9A%84%E6%9C%80%E4%BD%B3%E6%96%B9%E6%B3%95-smarttube/</link>
+      <pubDate>Sat, 07 Sep 2024 17:31:29 +0800</pubDate>
+      
+      <guid>http://localhost:1313/zh-tw/2024/09/android-tv-%E8%A7%80%E7%9C%8B-youtube-%E7%9A%84%E6%9C%80%E4%BD%B3%E6%96%B9%E6%B3%95-smarttube/</guid>
+      <description>喜歡在電視上觀看 YouTube 影片嗎，你絕不可錯過使用 SmartTube!</description>
+    </item>
+    
+    <item>
+      <title>孩子出生了！老婆懷孕期間的心得分享</title>
+      <link>http://localhost:1313/zh-tw/2024/04/%E5%AD%A9%E5%AD%90%E5%87%BA%E7%94%9F%E4%BA%86%E8%80%81%E5%A9%86%E6%87%B7%E5%AD%95%E6%9C%9F%E9%96%93%E7%9A%84%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB/</link>
       <pubDate>Tue, 30 Apr 2024 17:12:53 +0800</pubDate>
       
-      <guid>http://localhost:1313/zh-tw/2024/04/%E5%AD%A9%E5%AD%90%E5%87%BA%E7%94%9F%E4%BA%86/</guid>
-      <description>好久沒更新了， 人生的進展總是充滿意外，我從去年四月結婚，想不到今年四月就成為了新手爸爸。</description>
+      <guid>http://localhost:1313/zh-tw/2024/04/%E5%AD%A9%E5%AD%90%E5%87%BA%E7%94%9F%E4%BA%86%E8%80%81%E5%A9%86%E6%87%B7%E5%AD%95%E6%9C%9F%E9%96%93%E7%9A%84%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB/</guid>
+      <description>好久沒更新了， 人生的進展總是充滿意外，我從去年四月結婚，想不到今年四月就成為了新手爸爸。 這一陣子以來，懷孕期間辛苦老婆九個月，從初期嚴重的孕</description>
     </item>
     
     <item>

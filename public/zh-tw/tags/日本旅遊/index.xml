@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>日本旅遊 on 剛哲的個人網站</title>
+    <title>日本旅遊 on 范剛哲的部落格</title>
     <link>http://localhost:1313/zh-tw/tags/%E6%97%A5%E6%9C%AC%E6%97%85%E9%81%8A/</link>
-    <description>Recent content in 日本旅遊 on 剛哲的個人網站</description>
+    <description>Recent content in 日本旅遊 on 范剛哲的部落格</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Thu, 21 Dec 2023 21:19:15 +0800</lastBuildDate><atom:link href="http://localhost:1313/zh-tw/tags/%E6%97%A5%E6%9C%AC%E6%97%85%E9%81%8A/index.xml" rel="self" type="application/rss+xml" />

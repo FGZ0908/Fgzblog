@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>跑步 on 剛哲的個人網站</title>
+    <title>跑步 on 范剛哲的部落格</title>
     <link>http://localhost:1313/zh-tw/categories/%E8%B7%91%E6%AD%A5/</link>
-    <description>Recent content in 跑步 on 剛哲的個人網站</description>
+    <description>Recent content in 跑步 on 范剛哲的部落格</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sat, 05 Aug 2023 21:02:44 +0800</lastBuildDate><atom:link href="http://localhost:1313/zh-tw/categories/%E8%B7%91%E6%AD%A5/index.xml" rel="self" type="application/rss+xml" />
