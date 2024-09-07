@@ -1,17 +1,17 @@
 ---
-title: "Android TV 觀看 YouTube 的最佳方法 ─ SmartTube"
+title: Android TV 觀看 YouTube 的最佳方法 ─ SmartTube
 date: 2024-09-07T17:31:29+08:00
-draft: true
+draft: false
 cover:
-    image: ""
-    alt: ""
-    caption: ""
-categories: 
-- 軟體分享
-tags: 
-- 軟體分享
-- Youtube
-description: "喜歡在電視上觀看 YouTube 影片嗎，你絕不可錯過使用 SmartTube!"
+  image: ""
+  alt: ""
+  caption: ""
+categories:
+  - 軟體分享
+tags:
+  - 軟體分享
+  - Youtube
+description: 喜歡在電視上觀看 YouTube 影片嗎，你絕不可錯過使用 SmartTube!
 ---
 
 ## 什麼是 SmartTube?

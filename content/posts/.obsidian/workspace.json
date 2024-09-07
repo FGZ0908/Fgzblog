@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "94ad12f0b56e5989",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fdb248eacd556d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45c1d749631db666",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "youtube_androidtv.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc12eda343c18430",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0243beca3dbde89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c11b8ffaf8b27e7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "cfa3ec4ee8bdd96b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "51cc2c520c99777c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "fcae0ac57c0e992d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4987613bf69a914f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "974d61e9cb74b80f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "youtube_androidtv.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "06bcfbf7581fd9d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "youtube_androidtv.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa1635210af0245d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cb2f4edbbd68770a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "youtube_androidtv.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "45c1d749631db666",
+  "lastOpenFiles": []
+}
