@@ -3,7 +3,7 @@ title: Android TV 觀看 YouTube 的最佳方法 ─ SmartTube
 date: 2024-09-07T17:31:29+08:00
 draft: false
 cover:
-  image: ""
+  image: "/img/smarttube.jpg"
   alt: ""
   caption: ""
 categories:
