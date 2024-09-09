@@ -1,45 +1,44 @@
 ---
-title: "F-Droid介紹及十大推薦應用程式"
+title: F-Droid介紹及十大推薦應用程式
 date: 2022-07-05T19:32:29+08:00
-draft: flase
+draft: "false"
 cover:
-    image: "/img/f-droid.jpg"
-    alt: ""
-    caption: ""
-categories: 
-- 軟體介紹
-- 手機軟體
-tags: 
-- F-droid
-- 手機軟體
-- Infinity
-- Olauncher
-- AntennaPod
-- Joplin
-- Librera
-- Syncthing
-- Simple_Gallery
-- Simplenote
-- OpenStreetMap
-- OsmAnd+
-- Protonmail
-- Feeder
+  image: /img/f-droid.jpg
+  alt: ""
+  caption: ""
+categories:
+  - 軟體介紹
+  - 手機軟體
+tags:
+  - F-droid
+  - 手機軟體
+  - Infinity
+  - Olauncher
+  - AntennaPod
+  - Joplin
+  - Librera
+  - Syncthing
+  - Simple_Gallery
+  - Simplenote
+  - OpenStreetMap
+  - Protonmail
+  - Feeder
 keywords:
-- F-droid
-- 手機軟體
-- Infinity
-- Olauncher
-- AntennaPod
-- Joplin
-- Librera
-- Syncthing
-- Simple_Gallery
-- Simplenote
-- OpenStreetMap
-- OsmAnd+
-- Protonmail
-- Feeder
-description: "F-droid介紹及軟體分享。"
+  - F-droid
+  - 手機軟體
+  - Infinity
+  - Olauncher
+  - AntennaPod
+  - Joplin
+  - Librera
+  - Syncthing
+  - Simple_Gallery
+  - Simplenote
+  - OpenStreetMap
+  - OsmAnd+
+  - Protonmail
+  - Feeder
+description: F-droid介紹及軟體分享。
 ---
 F-droid簡介
 ---

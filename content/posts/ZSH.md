@@ -1,27 +1,25 @@
 ---
-title: "更換shell，讓終端機更好用—ZSH簡易配置"
+title: 更換shell，讓終端機更好用—ZSH簡易配置
 date: 2022-08-09T22:17:28+08:00
 draft: false
 cover:
-    image: "/img/zsh.jpg"
-    alt: ""
-    caption: ""
-categories: 
-- linux
-- ZSH
-- shell
-tags: 
-- linux
-- archlinux
-- zsh
-- bash
-- shell
+  image: /img/zsh.jpg
+  alt: ""
+  caption: ""
+categories:
+  - linux
+  - ZSH
+  - shell
+tags:
+  - linux
+  - zsh
+  - bash
+  - shell
 keywords:
-- linux
-- archlinux
-- zsh
-- bash
-- shell
+  - linux
+  - zsh
+  - bash
+  - shell
 description: "介紹一下簡易配置的 zsh "
 ---
 

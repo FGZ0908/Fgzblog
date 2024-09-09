@@ -1,15 +1,14 @@
 ---
-title: "孩子出生了！老婆懷孕期間的心得分享"
+title: 孩子出生了！老婆懷孕期間的心得分享
 date: 2024-04-30T17:12:53+08:00
 draft: false
 cover:
-    image: "/img/family.jpg"
-    alt: ""
-    caption: ""
-categories: 
-- 
+  image: /img/family.jpg
+  alt: ""
+  caption: ""
+categories:
+  - 生活雜記
 tags: 
-- 
 description: ""
 ---
 

@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "4fdb248eacd556d0",
+        "id": "e2bceb69cb67a915",
         "type": "tabs",
         "children": [
           {
-            "id": "45c1d749631db666",
+            "id": "05f567bd05403c46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "youtube_androidtv.md",
+                "file": "bitwarden 密碼管理器.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0877a789f71685cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ytdlp.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "fcae0ac57c0e992d",
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "youtube_androidtv.md",
+                "file": "bitwarden 密碼管理器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "youtube_androidtv.md",
+                "file": "bitwarden 密碼管理器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "youtube_androidtv.md"
+                "file": "bitwarden 密碼管理器.md"
               }
             }
           }
@@ -147,6 +158,33 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "45c1d749631db666",
-  "lastOpenFiles": []
+  "active": "05f567bd05403c46",
+  "lastOpenFiles": [
+    "ytdlp.md",
+    "bitwarden 密碼管理器.md",
+    "f-droid介紹及推薦軟體.md",
+    "ZSH.md",
+    "baby_newborn.md",
+    "car_privacy.md",
+    "dwm─suckless平鋪式桌面環境.md",
+    "dwm細部修改之介紹.md",
+    "公路車入坑.md",
+    "camping_in_nantu.md",
+    "The Road Less Traveled.md",
+    "Grapheneos_android_auto.md",
+    "《不辦清單》史上最不勵志的爛泥哲學書-讀書心得.md",
+    "wedding_photo_finish.md",
+    "tmd_mountain.md",
+    "suckless.md",
+    "signal.md",
+    "rssfeed.md",
+    "pttbad.md",
+    "pose_method_of_running.md",
+    "mountusb.md",
+    "newpipe.md",
+    "kyushu_travel.md",
+    "lion_mountain.md",
+    "grapheneos.md",
+    "頭科山.md"
+  ]
 }
