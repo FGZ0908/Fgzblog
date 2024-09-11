@@ -7,7 +7,7 @@ cover:
   alt: ""
   caption: ""
 categories:
-  - 軟體分享
+  - 軟體介紹
 tags:
   - 軟體分享
   - Youtube

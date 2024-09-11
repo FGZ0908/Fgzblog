@@ -8,7 +8,6 @@ cover:
     caption: ""
 categories: 
 - 讀書心得
-- 心理學
 tags: 
 - 讀書心得
 - 心理學

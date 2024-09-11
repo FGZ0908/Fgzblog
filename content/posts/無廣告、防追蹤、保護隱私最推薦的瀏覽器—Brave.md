@@ -8,7 +8,6 @@ cover:
     caption: "Brave瀏覽器的Logo" # display caption under cover
 categories: 
  - 軟體介紹
- - 遠離Google
 tags: ["瀏覽器","Brave","Browser","opensource","自由軟體"]   
 keywords:
 - 瀏覽器

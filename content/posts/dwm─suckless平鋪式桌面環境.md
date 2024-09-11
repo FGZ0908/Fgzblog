@@ -8,7 +8,6 @@ cover:
     caption: ""
 categories: 
 - 軟體介紹
-- suckless
 - Linux
 - 自由軟體
 tags: 

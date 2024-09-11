@@ -7,7 +7,6 @@ cover:
     alt: ""
     caption: ""
 categories: 
-- 結婚
 - 生活雜記
 tags: 
 - wedding

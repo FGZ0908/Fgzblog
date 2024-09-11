@@ -7,8 +7,7 @@ cover:
     alt: ""
     caption: ""
 categories: 
-- 教學
-- ArchLinux
+- Linux
 tags: 
 - usb
 - mountusb
