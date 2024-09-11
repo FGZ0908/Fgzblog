@@ -1,19 +1,16 @@
 ---
-title: "你的Toyota可能正在出賣你─談汽車侵犯隱私權"
+title: 你的Toyota可能正在出賣你─談汽車侵犯隱私權
 date: 2023-09-21T10:28:53+08:00
 draft: false
 cover:
-    image: "/img/car.jpg"
-    alt: ""
-    caption: ""
-categories: 
-- 隱私權
-- 自由軟體
+  image: /img/car.jpg
+  alt: ""
+  caption: ""
+categories:
+- 所思所想
 tags: 
-- 自由軟體
-- 個人隱私
-- 資訊人權
-description: "來自一份Mozilla出產的報告，與大家分享有關汽車對車主的隱私侵犯。"
+- 所思所想
+description: 來自一份Mozilla出產的報告，與大家分享有關汽車對車主的隱私侵犯。
 ---
 
 最近收聽了[好檸檬 Podcast](https://wiwi.video/w/ppFRfxsfuqb1sRceT6Pkkp)，有關最新一集Ep.158，談到 Mozilla 的一篇名為《車輪上的隱私噩夢》(Privacy Nightmare on Wheels)，平常通勤都開車的我，對此話題深感興趣進而找到了[原文](https://foundation.mozilla.org/en/blog/privacy-nightmare-on-wheels-every-car-brand-reviewed-by-mozilla-including-ford-volkswagen-and-toyota-flunks-privacy-test/)，這邊和大家做一點心得分享。

@@ -7,14 +7,11 @@ cover:
     alt: ""
     caption: ""
 categories: 
-- 自由軟體
+- 電腦軟體
 - Linux
 tags: 
-- suckless
-- dwm
-- st
-- dmenu
-- linux
+- 電腦軟體
+- Linux
 keywords:
 - suckless
 - dwm

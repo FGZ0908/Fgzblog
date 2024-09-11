@@ -9,8 +9,7 @@ cover:
 categories: 
 - 軟體介紹
 tags: 
-- 網路人權
-- RSS閱讀器 
+- 軟體介紹 
 description: "對演算法提供文章感到厭煩嗎？使用RSS閱讀文章，取回自我數位閱讀權利吧！"
 ---
 

@@ -8,11 +8,10 @@ cover:
     caption: ""
 categories: 
 - Linux
+- 電腦軟體
 tags: 
-- usb
-- mountusb
-- Archlinux
-- 軟體教學
+- Linux
+- 電腦軟體
 keywords:
 - usb
 - mountusb

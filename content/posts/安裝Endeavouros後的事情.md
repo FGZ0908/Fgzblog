@@ -8,11 +8,10 @@ cover:
     caption: ""
 categories: 
 - Linux
-- 軟體介紹
+- 電腦軟體
 tags: 
 - Linux
-- EndeavourOS
-- 軟體介紹
+- 電腦軟體
 keywords:
 - Linux
 - EndeavourOS

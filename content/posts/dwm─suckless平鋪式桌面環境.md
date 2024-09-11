@@ -7,15 +7,11 @@ cover:
     alt: ""
     caption: ""
 categories: 
-- 軟體介紹
 - Linux
-- 自由軟體
+- 電腦軟體
 tags: 
-- suckless
-- linux
-- dwm
-- 自由軟體
-- 軟體介紹
+- Linux
+- 電腦軟體
 keywords: 
 - suckless
 - linux

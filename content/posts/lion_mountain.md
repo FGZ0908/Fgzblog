@@ -7,15 +7,11 @@ cover:
     alt: ""
     caption: ""
 categories: 
-- 爬山
 - 生活雜記
 - 運動
 tags: 
-- 獅頭山
-- 爬山
-keywords:
-- 獅頭山
-- 爬山
+- 生活雜記
+- 運動
 description: "二月去爬了一座小山—獅頭山。"
 ---
 

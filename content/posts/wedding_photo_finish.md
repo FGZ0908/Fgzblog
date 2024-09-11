@@ -9,9 +9,7 @@ cover:
 categories: 
 - 生活雜記
 tags: 
-- wedding
-- 結婚
-- 婚紗
+- 生活雜記
 keywords:
 - wedding
 - 結婚

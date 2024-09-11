@@ -8,12 +8,10 @@ cover:
   caption: ""
 categories:
   - Linux
-  - 軟體介紹
+  - 電腦軟體
 tags:
-  - linux
-  - zsh
-  - bash
-  - shell
+  - Linux
+  - 電腦軟體
 keywords:
   - linux
   - zsh

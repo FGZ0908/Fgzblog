@@ -10,7 +10,6 @@ categories:
 - 生活雜記
 tags: 
 - 生活雜記
-- 峇里島
 description: "在六月時，去峇里島度過美好的假期～"
 ---
 

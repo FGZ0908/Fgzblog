@@ -7,12 +7,9 @@ cover:
     alt: ""
     caption: ""
 categories:
-- 生產力
+- 所思所想
 tags: 
-- Ptt
-- Dcard
-- 網路論壇
-- 時間管理
+- 所思所想
 description: "一位鄉民與大家分享對網路社群的看法。"
 ---
 

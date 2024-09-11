@@ -7,22 +7,9 @@ cover:
   alt: ""
   caption: ""
 categories:
-  - 軟體介紹
   - 手機軟體
 tags:
-  - F-droid
   - 手機軟體
-  - Infinity
-  - Olauncher
-  - AntennaPod
-  - Joplin
-  - Librera
-  - Syncthing
-  - Simple_Gallery
-  - Simplenote
-  - OpenStreetMap
-  - Protonmail
-  - Feeder
 keywords:
   - F-droid
   - 手機軟體

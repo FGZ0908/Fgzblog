@@ -7,17 +7,9 @@ cover:
     alt: ""
     caption: ""
 categories: 
-- 自由軟體
-- 軟體介紹
 - 手機軟體
 tags: 
-- GrapheneOS
 - 手機軟體
-- 自由軟體
-keywords:
-- GrapheneOS
-- 手機軟體
-- 自由軟體
 description: "使用了最注重隱私的GrapheneOS，Google比你想得還有料。"
 ---
 

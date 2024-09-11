@@ -10,10 +10,6 @@ categories:
 - 讀書心得
 tags: 
 - 讀書心得
-- 心理學
-- 心靈地圖
-- The Road Less Travled
-- 少有人走的路
 description: "最近看了一本老書，內容豐富值得與大家分享。"
 ---
 

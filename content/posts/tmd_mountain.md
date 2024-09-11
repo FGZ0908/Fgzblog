@@ -8,10 +8,10 @@ cover:
     caption: ""
 categories: 
 - 生活雜記
-- 爬山
+- 運動
 tags: 
-- 爬山
-- 谷關七雄
+- 生活雜記
+- 運動
 description: "結婚前和老婆去爬了一座谷關七雄，留下一點紀錄。"
 ---
 

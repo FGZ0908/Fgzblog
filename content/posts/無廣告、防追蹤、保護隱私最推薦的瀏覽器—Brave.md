@@ -7,8 +7,11 @@ cover:
     alt: "Brave Browser" # alt text
     caption: "Brave瀏覽器的Logo" # display caption under cover
 categories: 
- - 軟體介紹
-tags: ["瀏覽器","Brave","Browser","opensource","自由軟體"]   
+ - 手機軟體
+ - 電腦軟體
+tags: 
+ - 手機軟體
+ - 電腦軟體
 keywords:
 - 瀏覽器
 - Brave

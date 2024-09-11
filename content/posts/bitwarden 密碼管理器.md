@@ -3,13 +3,15 @@ title: Bitwarden 您可信任的密碼管理器
 date: 2024-09-09T19:21:04+08:00
 draft: false
 cover:
-  image: "/img/bitwarden.jpg"
+  image: /img/bitwarden.jpg
   alt: ""
   caption: ""
 categories:
-  - 軟體介紹
+  - 電腦軟體
+  - 手機軟體
 tags:
-  - 自由軟體
+  - 手機軟體
+  - 電腦軟體
 description: 推薦一款自己使用了兩三年的密碼管理器：bitwarden。
 ---
 

@@ -7,18 +7,8 @@ cover:
     alt: ""
     caption: "newpipe"
 categories: 
-- 軟體介紹
 - 手機軟體
 tags: 
-- Newpipe
-- YouTube
-- F-droid
-- 手機軟體
-- Android
-keywords:
-- Newpipe
-- YouTube
-- F-droid
 - 手機軟體
 description: "看Youtube廣告真的很煩，又不想花錢買Premium嗎？"
 ---

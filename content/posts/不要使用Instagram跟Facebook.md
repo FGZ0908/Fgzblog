@@ -7,14 +7,9 @@ cover:
     alt: ""
     caption: ""
 categories: 
-- 生產力
+- 所思所想
 tags: 
-- 生活雜記
-- 社群媒體
-keywords:
-- facebook
-- Instagram
-- 社群媒體
+- 所思所想
 description: "刪除IG帳號一年，以及關閉臉書帳號以後的心得。"
 ---
 請不要使用Meta公司所出品的Facebook和Instagram了，更準確的說，請不要使用社群媒體。

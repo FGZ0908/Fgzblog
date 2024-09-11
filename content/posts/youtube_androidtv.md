@@ -7,10 +7,9 @@ cover:
   alt: ""
   caption: ""
 categories:
-  - 軟體介紹
+  - 手機軟體
 tags:
-  - 軟體分享
-  - Youtube
+  - 手機軟體
 description: 喜歡在電視上觀看 YouTube 影片嗎，你絕不可錯過使用 SmartTube!
 ---
 
