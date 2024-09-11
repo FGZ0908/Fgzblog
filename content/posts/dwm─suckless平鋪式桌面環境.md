@@ -9,7 +9,7 @@ cover:
 categories: 
 - 軟體介紹
 - suckless
-- linux
+- Linux
 - 自由軟體
 tags: 
 - suckless

@@ -8,7 +8,6 @@ cover:
     caption: ""
 categories: 
 - Linux
-- EndeavourOS
 - 軟體介紹
 tags: 
 - Linux

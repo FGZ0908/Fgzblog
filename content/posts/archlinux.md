@@ -8,7 +8,7 @@ cover:
     caption: ""
 categories: 
 - 自由軟體
-- Archlinux
+- Linux
 tags: 
 - 自由軟體
 - Archlinux

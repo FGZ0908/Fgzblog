@@ -7,10 +7,8 @@ cover:
     alt: ""
     caption: ""
 categories: 
-- suckless
-- dwm
-- st
-- dmenu
+- 自由軟體
+- Linux
 tags: 
 - suckless
 - dwm

@@ -7,9 +7,8 @@ cover:
   alt: ""
   caption: ""
 categories:
-  - linux
-  - ZSH
-  - shell
+  - Linux
+  - 軟體介紹
 tags:
   - linux
   - zsh
