@@ -7,9 +7,11 @@ cover:
     alt: ""
     caption: ""
 categories: 
-- 軟體介紹
+- 手機軟體
+- 電腦軟體
 tags: 
-- 軟體介紹 
+- 手機軟體
+- 電腦軟體
 description: "對演算法提供文章感到厭煩嗎？使用RSS閱讀文章，取回自我數位閱讀權利吧！"
 ---
 
