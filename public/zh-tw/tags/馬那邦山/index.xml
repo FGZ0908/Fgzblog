@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>馬那邦山 on 范剛哲的部落格</title>
+    <link>http://localhost:1313/zh-tw/tags/%E9%A6%AC%E9%82%A3%E9%82%A6%E5%B1%B1/</link>
+    <description>Recent content in 馬那邦山 on 范剛哲的部落格</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 11 Dec 2022 21:59:39 +0800</lastBuildDate><atom:link href="http://localhost:1313/zh-tw/tags/%E9%A6%AC%E9%82%A3%E9%82%A6%E5%B1%B1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>馬那邦山</title>
+      <link>http://localhost:1313/zh-tw/2022/12/%E9%A6%AC%E9%82%A3%E9%82%A6%E5%B1%B1/</link>
+      <pubDate>Sun, 11 Dec 2022 21:59:39 +0800</pubDate>
+      
+      <guid>http://localhost:1313/zh-tw/2022/12/%E9%A6%AC%E9%82%A3%E9%82%A6%E5%B1%B1/</guid>
+      <description>十月份的時候到苗栗的山上走走，爬了一座在苗栗頗為盛名的郊山─馬那邦山。</description>
+    </item>
+    
+  </channel>
+</rss>

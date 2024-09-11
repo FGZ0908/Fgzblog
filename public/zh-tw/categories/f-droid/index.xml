@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>F-Droid on 范剛哲的部落格</title>
+    <link>http://localhost:1313/zh-tw/categories/f-droid/</link>
+    <description>Recent content in F-Droid on 范剛哲的部落格</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 26 Sep 2023 14:27:29 +0800</lastBuildDate><atom:link href="http://localhost:1313/zh-tw/categories/f-droid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>請改用Signal，停止使用 Line,Messenger 等垃圾 App。</title>
+      <link>http://localhost:1313/zh-tw/2023/09/%E8%AB%8B%E6%94%B9%E7%94%A8signal%E5%81%9C%E6%AD%A2%E4%BD%BF%E7%94%A8-linemessenger-%E7%AD%89%E5%9E%83%E5%9C%BE-app/</link>
+      <pubDate>Tue, 26 Sep 2023 14:27:29 +0800</pubDate>
+      
+      <guid>http://localhost:1313/zh-tw/2023/09/%E8%AB%8B%E6%94%B9%E7%94%A8signal%E5%81%9C%E6%AD%A2%E4%BD%BF%E7%94%A8-linemessenger-%E7%AD%89%E5%9E%83%E5%9C%BE-app/</guid>
+      <description>通訊軟體就該讓您好好聊天，不該存放太多垃圾，請改用 Signal 一款尊重隱私的自由通訊軟體。</description>
+    </item>
+    
+  </channel>
+</rss>

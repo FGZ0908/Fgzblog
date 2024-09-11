@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>軟體介紹 on 范剛哲的部落格</title>
+    <link>http://localhost:1313/zh-tw/tags/%E8%BB%9F%E9%AB%94%E4%BB%8B%E7%B4%B9/</link>
+    <description>Recent content in 軟體介紹 on 范剛哲的部落格</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 26 Sep 2023 14:27:29 +0800</lastBuildDate><atom:link href="http://localhost:1313/zh-tw/tags/%E8%BB%9F%E9%AB%94%E4%BB%8B%E7%B4%B9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>請改用Signal，停止使用 Line,Messenger 等垃圾 App。</title>
+      <link>http://localhost:1313/zh-tw/2023/09/%E8%AB%8B%E6%94%B9%E7%94%A8signal%E5%81%9C%E6%AD%A2%E4%BD%BF%E7%94%A8-linemessenger-%E7%AD%89%E5%9E%83%E5%9C%BE-app/</link>
+      <pubDate>Tue, 26 Sep 2023 14:27:29 +0800</pubDate>
+      
+      <guid>http://localhost:1313/zh-tw/2023/09/%E8%AB%8B%E6%94%B9%E7%94%A8signal%E5%81%9C%E6%AD%A2%E4%BD%BF%E7%94%A8-linemessenger-%E7%AD%89%E5%9E%83%E5%9C%BE-app/</guid>
+      <description>通訊軟體就該讓您好好聊天，不該存放太多垃圾，請改用 Signal 一款尊重隱私的自由通訊軟體。</description>
+    </item>
+    
+    <item>
+      <title>Dwm ─ suckless 平鋪式桌面環境</title>
+      <link>http://localhost:1313/zh-tw/2022/09/dwm-suckless-%E5%B9%B3%E9%8B%AA%E5%BC%8F%E6%A1%8C%E9%9D%A2%E7%92%B0%E5%A2%83/</link>
+      <pubDate>Sat, 03 Sep 2022 23:35:36 +0800</pubDate>
+      
+      <guid>http://localhost:1313/zh-tw/2022/09/dwm-suckless-%E5%B9%B3%E9%8B%AA%E5%BC%8F%E6%A1%8C%E9%9D%A2%E7%92%B0%E5%A2%83/</guid>
+      <description>介紹suckless的桌面視窗管理軟體 ─ dwm</description>
+    </item>
+    
+    <item>
+      <title>安裝EndeavourOS後做的六件事。</title>
+      <link>http://localhost:1313/zh-tw/2022/08/%E5%AE%89%E8%A3%9Dendeavouros%E5%BE%8C%E5%81%9A%E7%9A%84%E5%85%AD%E4%BB%B6%E4%BA%8B/</link>
+      <pubDate>Wed, 03 Aug 2022 00:27:06 +0800</pubDate>
+      
+      <guid>http://localhost:1313/zh-tw/2022/08/%E5%AE%89%E8%A3%9Dendeavouros%E5%BE%8C%E5%81%9A%E7%9A%84%E5%85%AD%E4%BB%B6%E4%BA%8B/</guid>
+      <description>上上篇文介紹到了基於Arch的Linux發行版，這篇文來說說之後所作的事情。</description>
+    </item>
+    
+  </channel>
+</rss>

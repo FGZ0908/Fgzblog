@@ -3,7 +3,7 @@ title: Bitwarden 您可信任的密碼管理器
 date: 2024-09-09T19:21:04+08:00
 draft: false
 cover:
-  image: ""
+  image: "/img/bitwarden.jpg"
   alt: ""
   caption: ""
 categories:

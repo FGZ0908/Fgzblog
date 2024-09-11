@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>獅頭山 on 范剛哲的部落格</title>
+    <link>http://localhost:1313/zh-tw/tags/%E7%8D%85%E9%A0%AD%E5%B1%B1/</link>
+    <description>Recent content in 獅頭山 on 范剛哲的部落格</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 27 Feb 2023 22:49:47 +0800</lastBuildDate><atom:link href="http://localhost:1313/zh-tw/tags/%E7%8D%85%E9%A0%AD%E5%B1%B1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>獅頭山</title>
+      <link>http://localhost:1313/zh-tw/2023/02/%E7%8D%85%E9%A0%AD%E5%B1%B1/</link>
+      <pubDate>Mon, 27 Feb 2023 22:49:47 +0800</pubDate>
+      
+      <guid>http://localhost:1313/zh-tw/2023/02/%E7%8D%85%E9%A0%AD%E5%B1%B1/</guid>
+      <description>二月去爬了一座小山—獅頭山。</description>
+    </item>
+    
+  </channel>
+</rss>
