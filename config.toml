@@ -72,7 +72,8 @@ TocOpen = true
 comments = true
 description = "范剛哲的部落格，范剛哲，自由軟體，讀書心得，旅遊，美食，台中，苗栗，跑步，哲學"
 keywords = [ "Blog", "跑步", "PaperMod", "生活雜記", "自由軟體", "F-Droid" ]
-ShowFullTextinRSS = true 
+ShowFullTextinRSS = true
+social = true
  [params.cover]
  linkFullImages = true
 
@@ -142,3 +143,4 @@ disableInlineCSS = true
  apple_touch_icon = "/apple-touch-icon.png"
  safari_pinned_tab = "/safari-pinned-tab.svg"
  disableHJLS = false
+ ignoreErrors = ["error-remote-getjson"]
