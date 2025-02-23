@@ -79,7 +79,7 @@ social = true
 
  [params.homeInfoParams]
  enabled =true
- Title = "嗨！在這裡遇見你真好，歡迎來到我的網站。"
+ Title = "范剛哲的部落格"
  Content = """
  歡迎來到我的個人網站，這裡會分享一些我的日常雜記、閱讀心得、好用的軟硬體分享，有心得分享歡迎使用 Email 與我聯絡，也建議使用 RSS 訂閱本站。            
  """
