@@ -7,7 +7,6 @@ cover:
   alt: ""
   caption: ""
 categories:
-  - 自由軟體
   - 電腦軟體
 tags:
   - 電腦軟體
