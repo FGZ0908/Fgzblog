@@ -3,7 +3,7 @@ title: 純機械工具讓你生活更便利
 date: 2025-02-23T20:55:27+08:00
 draft: false
 cover:
-  image: "/img/tanita.jpg"
+  image: ""
   alt: ""
   caption: ""
 categories:

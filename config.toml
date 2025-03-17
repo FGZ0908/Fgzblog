@@ -144,3 +144,6 @@ disableInlineCSS = true
  safari_pinned_tab = "/safari-pinned-tab.svg"
  disableHJLS = false
  ignoreErrors = ["error-remote-getjson"]
+
+[params.busuanzi]
+enable = true
