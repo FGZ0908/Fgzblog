@@ -10,8 +10,11 @@ hasCJKLanguage = true
 buildDrafts = false
 buildFuture = false
 buildExpired = false
-paginate = 10
+
 defaultContentLanguageInSubdir = true
+
+[pagination]
+pagerSize = "6"
 
 [permalinks]
 posts = "/:year/:month/:slug/"
@@ -112,7 +115,7 @@ style = "darcula"
 disabled = false
 simple = true
 
-[privacy.twitter]
+[privacy.x]
 disabled = false
 enableDNT = true
 simple = true
@@ -128,7 +131,7 @@ privacyEnhanced = true
 [services.instagram]
 disableInlineCSS = true
 
-[services.twitter]
+[services.x]
 disableInlineCSS = true
 
 [sitemap]
