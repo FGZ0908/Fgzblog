@@ -7,10 +7,10 @@ cover:
     alt: "別問，一定要看一下neofetch"
     caption: ""
 categories: 
-- 電腦軟體
+- 自由軟體
 - Linux
 tags: 
-- 電腦軟體
+- 自由軟體
 - Linux
 keywords:
 - Archlinux

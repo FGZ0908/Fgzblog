@@ -8,10 +8,10 @@ cover:
     caption: ""
 categories: 
 - Linux
-- 電腦軟體
+- 自由軟體
 tags: 
 - Linux
-- 電腦軟體
+- 自由軟體
 keywords: 
 - suckless
 - linux

@@ -1,0 +1,137 @@
+defaultContentLanguage: zh-tw
+baseURL: https://fgzblog.com
+languageCode: zh-tw
+title: 范剛哲的部落格
+theme: PaperMod
+enableInlineShortcodes: true
+enableEmoji: true
+enablerobotsTXT: true
+hasCJKLanguage: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+defaultContentLanguageInSubdir: true
+pagination:
+  pagerSize: "6"
+permalinks:
+  posts: /:year/:month/:slug/
+minify:
+  disableXML: true
+menu:
+  main:
+    - identifier: search
+      name: 🔍 搜尋
+      url: search
+      weight: 1
+    - identifier: categories
+      name: 🗂️ 分類
+      url: categories
+      weight: 2
+    - identifier: posts
+      name: 📚 文章
+      url: posts
+      weight: 3
+    - identifier: tags
+      name: 🔖 標籤
+      url: tags
+      weight: 40
+    - identifier: archives
+      name: ⏱ 文章庫
+      url: archives
+      weight: 50
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+params:
+  env: production
+  author: FGZ
+  defaultTheme: auto
+  disableThemeToggle: false
+  DateFormat: 2006-01-02
+  ShowShareButtons: true
+  ShowReadingTime: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  hideFooter: false
+  ShowWordCounts: true
+  VisitCount: true
+  ShowLastMod: true
+  ShowToc: true
+  TocOpen: true
+  comments: true
+  description: 范剛哲的部落格，范剛哲，自由軟體，讀書心得，旅遊，美食，台中，苗栗，跑步，哲學
+  keywords:
+    - Blog
+    - 跑步
+    - PaperMod
+    - 生活雜記
+    - 自由軟體
+    - F-Droid
+  ShowFullTextinRSS: true
+  social: true
+  cover:
+    linkFullImages: true
+  homeInfoParams:
+    enabled: true
+    Title: 范剛哲的部落格
+    Content:
+      " 歡迎來到我的個人網站，這裡會分享一些我的日常雜記、閱讀心得、好用的軟硬體分享，有心得分享歡迎使用 Email 與我聯絡，也建議使用 RSS
+      訂閱本站。           \
+
+      \ "
+  socialIcons:
+    - name: email
+      url: mailto:j74127412@protonmail.com
+    - name: strava
+      url: https://www.strava.com/athletes/21667534
+    - name: youtube
+      url: https://www.youtube.com/user/fan728639/featured
+    - name: RSS
+      url: index.xml
+  busuanzi:
+    enable: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    codeFences: true
+    guessSyntax: true
+    lineNos: false
+    style: darcula
+privacy:
+  vimeo:
+    disabled: false
+    simple: true
+  x:
+    disabled: false
+    enableDNT: true
+    simple: true
+  instagram:
+    disabled: false
+    simple: true
+  youtube:
+    disabled: false
+    privacyEnhanced: true
+services:
+  instagram:
+    disableInlineCSS: true
+  x:
+    disableInlineCSS: true
+sitemap:
+  changefreq: weekly
+  filename: sitemap.xml
+  priority: 0.5
+assets:
+  favicon: /favicon.ico
+  favicon16x16: /favicon-16x16.png
+  favicon32x32: /favicon-32x32.png
+  apple_touch_icon: /apple-touch-icon.png
+  safari_pinned_tab: /safari-pinned-tab.svg
+  disableHJLS: false
+  ignoreErrors:
+    - error-remote-getjson

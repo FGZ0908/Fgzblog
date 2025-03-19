@@ -7,8 +7,7 @@ cover:
     alt: "frost" # alt text
     caption: "Frost for facebook" # display caption under cover
 categories: 
-- 軟體介紹
-- 手機軟體
+- 自由軟體
 tags: 
 - 臉書
 - frost

@@ -7,9 +7,9 @@ cover:
     alt: ""
     caption: ""
 categories: 
-- 手機軟體
+- 自由軟體
 tags: 
-- 手機軟體
+- 自由軟體
 description: "GrapheneOS迎來了大更新，終於加入 Android Auto 功能，更沒有使用 Google 原廠作業軟體的理由。"
 ---
 

@@ -7,9 +7,9 @@ cover:
   alt: ""
   caption: ""
 categories:
-  - 手機軟體
+  - 自由軟體
 tags:
-  - 手機軟體
+  - 自由軟體
 keywords:
   - F-droid
   - 手機軟體

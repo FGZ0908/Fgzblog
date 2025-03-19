@@ -7,9 +7,10 @@ cover:
     alt: ""
     caption: "newpipe"
 categories: 
-- 手機軟體
+- 自由軟體
 tags: 
-- 手機軟體
+- 自由軟體
+
 description: "看Youtube廣告真的很煩，又不想花錢買Premium嗎？"
 ---
 

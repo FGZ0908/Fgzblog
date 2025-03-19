@@ -7,9 +7,9 @@ cover:
   alt: ""
   caption: ""
 categories:
-  - 電腦軟體
+- 自由軟體
 tags:
-  - 電腦軟體
+- 自由軟體
 description: 下載Youtube及其他網站的影音最佳解。
 ---
 網路上有許多下載Youtube的方式，但許多都包含廣告或者下載功能不全無法取得所有格式，這邊推薦一款終端機軟體[Yt-dlp](https://github.com/yt-dlp/yt-dlp)可以讓你在不限格式的情況下，下載各式各樣的影片。

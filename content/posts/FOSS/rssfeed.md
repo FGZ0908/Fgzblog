@@ -7,11 +7,9 @@ cover:
     alt: ""
     caption: ""
 categories: 
-- 手機軟體
-- 電腦軟體
+- 自由軟體
 tags: 
-- 手機軟體
-- 電腦軟體
+- 自由軟體
 description: "對演算法提供文章感到厭煩嗎？使用RSS閱讀文章，取回自我數位閱讀權利吧！"
 ---
 

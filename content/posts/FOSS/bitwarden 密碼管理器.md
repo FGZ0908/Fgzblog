@@ -7,11 +7,11 @@ cover:
   alt: ""
   caption: ""
 categories:
-  - 電腦軟體
-  - 手機軟體
+  - 自由軟體
+  
 tags:
-  - 手機軟體
-  - 電腦軟體
+  - 自由軟體
+  
 description: 推薦一款自己使用了兩三年的密碼管理器：bitwarden。
 ---
 

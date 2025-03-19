@@ -7,9 +7,9 @@ cover:
   alt: ""
   caption: ""
 categories:
-  - 手機軟體
+- 自由軟體
 tags:
-  - 手機軟體
+- 自由軟體
 description: 喜歡在電視上觀看 YouTube 影片嗎，你絕不可錯過使用 SmartTube!
 ---
 
