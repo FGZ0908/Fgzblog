@@ -1,0 +1,154 @@
+baseURL = "https://fgzblog.com"
+buildDrafts = false
+buildExpired = false
+buildFuture = false
+defaultContentLanguage = "zh-tw"
+defaultContentLanguageInSubdir = true
+enableEmoji = true
+enableInlineShortcodes = true
+enablerobotsTXT = true
+hasCJKLanguage = true
+languageCode = "zh-tw"
+theme = "PaperMod"
+title = "范剛哲的部落格"
+
+[assets]
+apple_touch_icon = "/apple-touch-icon.png"
+disableHJLS = false
+favicon = "/favicon.ico"
+favicon16x16 = "/favicon-16x16.png"
+favicon32x32 = "/favicon-32x32.png"
+ignoreErrors = ["error-remote-getjson"]
+safari_pinned_tab = "/safari-pinned-tab.svg"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+codeFences = true
+guessSyntax = true
+lineNos = false
+style = "darcula"
+
+[[menu.main]]
+identifier = "search"
+name = "🔍 搜尋"
+url = "search"
+weight = 1
+
+[[menu.main]]
+identifier = "categories"
+name = "🗂️ 分類"
+url = "categories"
+weight = 2
+
+[[menu.main]]
+identifier = "posts"
+name = "📚 文章"
+url = "posts"
+weight = 3
+
+[[menu.main]]
+identifier = "tags"
+name = "🔖 標籤"
+url = "tags"
+weight = 40
+
+[[menu.main]]
+identifier = "archives"
+name = "⏱ 文章庫"
+url = "archives"
+weight = 50
+
+[minify]
+disableXML = true
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[pagination]
+pagerSize = "6"
+
+[params]
+DateFormat = "2006-01-02"
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowFullTextinRSS = true
+ShowLastMod = true
+ShowPostNavLinks = true
+ShowReadingTime = true
+ShowShareButtons = true
+ShowToc = true
+ShowWordCounts = true
+TocOpen = true
+VisitCount = true
+author = "FGZ"
+comments = true
+defaultTheme = "auto"
+description = "范剛哲的部落格，范剛哲，自由軟體，讀書心得，旅遊，美食，台中，苗栗，跑步，哲學"
+disableThemeToggle = false
+displayFullLangName = true
+env = "production"
+hideFooter = false
+keywords = ["Blog", "跑步", "PaperMod", "生活雜記", "自由軟體", "F-Droid"]
+social = true
+
+[params.busuanzi]
+enable = true
+
+[params.cover]
+linkFullImages = true
+
+[params.homeInfoParams]
+Content = """
+ 歡迎來到我的個人網站，這裡會分享一些我的日常雜記、閱讀心得、好用的軟硬體分享，有心得分享歡迎使用 Email 與我聯絡，也建議使用 RSS 訂閱本站。           
+ """
+Title = "范剛哲的部落格"
+enabled = true
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:j74127412@protonmail.com"
+
+[[params.socialIcons]]
+name = "strava"
+url = "https://www.strava.com/athletes/21667534"
+
+[[params.socialIcons]]
+name = "youtube"
+url = "https://www.youtube.com/user/fan728639/featured"
+
+[[params.socialIcons]]
+name = "RSS"
+url = "index.xml"
+
+[permalinks]
+posts = "/:year/:month/:slug/"
+
+[privacy.instagram]
+disabled = false
+simple = true
+
+[privacy.vimeo]
+disabled = false
+simple = true
+
+[privacy.x]
+disabled = false
+enableDNT = true
+simple = true
+
+[privacy.youtube]
+disabled = false
+privacyEnhanced = true
+
+[services.instagram]
+disableInlineCSS = true
+
+[services.x]
+disableInlineCSS = true
+
+[sitemap]
+changefreq = "weekly"
+filename = "sitemap.xml"
+priority = 0.5
