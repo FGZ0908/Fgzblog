@@ -45,10 +45,10 @@ description: "接續上一篇，這篇聊聊東京迪士尼海洋樂園的遊玩
 2. [米老鼠造型吉拿棒](https://www.tokyodisneyresort.jp/en/food/1632/)：一樣是園區多個地方有販售，酥脆的吉拿棒，逛遊樂園拋開熱量吃點甜甜的東西讓整體感受很美好，而且有米老鼠的造型拍照非常好看～
 ![米老鼠吉拿棒](/img/2025tokyo/churro.jpg)
 3. [三眼怪麻糬](https://www.tokyodisneyresort.jp/en/food/1779/)：玩具總動員裡可愛的三眼怪做成麻糬的造型超適合！三個麻糬口味都不同，好像分別是巧克力、草莓和卡士達醬，口感有Q彈，吃完還想再買一份～
-![提拉米蘇](/img/2025tokyo/threeeyes.jpg)
+![三眼怪麻糬](/img/2025tokyo/threeeyes.jpg)
 4. [海星披薩](https://www.tokyodisneyresort.jp/en/food/3954/)、[塔可](https://www.tokyodisneyresort.jp/en/food/3983/)：位在小美人魚遊樂園的餐廳，將圓形的披薩改造成海星的形狀，拍照很上相，而且這間餐廳位置優良裡面冷氣很強，夏天去超舒服，只是這間餐廳超熱門位置要稍微等待一下才有得坐。
-![提拉米蘇](/img/2025tokyo/starpizza.jpg)
-![提拉米蘇](/img/2025tokyo/tuco.jpg)
+![海星披薩](/img/2025tokyo/starpizza.jpg)
+![塔可](/img/2025tokyo/tuco.jpg)
 
 ### 最後的小提醒
 
