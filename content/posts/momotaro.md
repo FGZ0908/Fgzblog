@@ -3,9 +3,9 @@ title: "日本牛仔褲介紹與分享—Momotaro桃太郎牛仔褲"
 date: 2025-11-12T13:17:54+08:00
 draft: false
 cover:
-    image: ""
+    image: "/img/momotaro/cover.jpg"
     alt: ""
-    caption: ""
+    caption: "Momotaro日本製原牛"
 categories: 
 - 穿搭分享
 tags: 
@@ -49,11 +49,11 @@ description: "聊聊牛仔褲"
 
 以下分享一下我購買的商品照片：
 
-牛仔褲正面
+牛仔褲正面，因為使用傳統織布機，可以依稀看出布面上有點些微的直條紋顏色變化。
 
 ![正面](/img/momotaro/front.jpg)
 
-牛仔褲背面
+牛仔褲背面，這件屬於寬鬆直筒風格
 
 ![背面](/img/momotaro/back.jpg)
 
