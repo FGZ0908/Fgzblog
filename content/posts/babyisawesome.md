@@ -3,7 +3,7 @@ title: "推坑—生個小寶寶"
 date: 2026-01-05T22:09:45+08:00
 draft: false
 cover:
-    image: "havebaby.jpg"
+    image: "/img/havebaby.jpg"
     alt: ""
     caption: ""
 categories: 
