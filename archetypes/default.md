@@ -6,6 +6,7 @@ cover:
     image: ""
     alt: ""
     caption: ""
+    relative: true
 categories: 
 - 
 tags: 
