@@ -3,7 +3,7 @@ title: "淺草、上野之旅─淺草寺、阿美橫町景點、美食分享"
 date: 2025-11-11T21:14:27+08:00
 draft: false
 cover:
-    image: "/img/2025tokyo/asakusa/cover.jpg"
+    image: "cover.jpg"
     alt: ""
     caption: "淺草寺入口"
 categories: 
@@ -25,17 +25,17 @@ description: "這次我們來到淺草及上野地區，感受當地人文風情
 
 因為是東京指標性的熱門景點，事前查了資料，大家都說去淺草寺要早一點出門，不然遊客眾多很難拍到好看的照片，我和老婆平時有兒子的早起訓練，我們一早六點多就起床出門搭地鐵出發，七點初就已抵達，可以拍到如封面圖上幾乎沒有其他人的照片。
 
-![塔](/img/2025tokyo/asakusa/tower.jpg)
+![塔](tower.jpg)
 
 淺草寺不是只有門口這個雷門大燈籠可以拍照，寺廟範圍非常廣闊，還有其他高塔，寺廟內供奉許多神像，但注意進入參拜的區域是不可以拍照的，旁邊會有保全人員監視遊客是否有違規行為，為了維持我們台灣觀光客形象請大家留意一下～
 
-![淺草寺景觀](/img/2025tokyo/asakusa/view.jpg)
+![淺草寺景觀](view.jpg)
 
 ### 仲見世商店街
 
 其實週邊範圍並不大前面是仲見世商店街，大多是販售當地老字號甜點，有類似紅豆餅的甜點、抹茶糰子、布丁…等，幾乎都是甜的建議可以都買一個吃看看就好，吃多了會很膩。我們吃了最推薦的就是淺草絲滑布丁，口感很濃厚且雞蛋香味很足，缺點就是希望布丁可以大顆一點比較夠吃啦！
 
-![淺草絲滑布丁](/img/2025tokyo/asakusa/pudding.jpg)
+![淺草絲滑布丁](pudding.jpg)
 
 ### 上野阿美橫町
 
@@ -43,7 +43,7 @@ description: "這次我們來到淺草及上野地區，感受當地人文風情
 
 >**阿美橫丁**是位於[日本](https://zh.wikipedia.org/wiki/日本)[東京都](https://zh.wikipedia.org/wiki/東京都)[台東區](https://zh.wikipedia.org/wiki/台東區)的[商店街](https://zh.wikipedia.org/wiki/商店街)，坐落於[山手線](https://zh.wikipedia.org/wiki/山手線)[上野](https://zh.wikipedia.org/wiki/上野站)至[御徒町](https://zh.wikipedia.org/wiki/御徒町站)間[高架](https://zh.wikipedia.org/wiki/高架橋)路段的下方及西側道路，長400公尺（1,300英尺），為[東京](https://zh.wikipedia.org/wiki/東京)著名的露天市集之一。[第二次世界大戰](https://zh.wikipedia.org/wiki/第二次世界大戰)後，該處是販賣[美軍](https://zh.wikipedia.org/wiki/美軍)物資的[黑市](https://zh.wikipedia.org/wiki/黑市)，「阿美」一詞即相信源自[美國](https://zh.wikipedia.org/wiki/美國)（**Ame**rica）。由於當時有許多售賣[飴](https://zh.wikipedia.org/wiki/饴)（傳統[糖果](https://zh.wikipedia.org/wiki/糖果)；日語發音亦為「Ame」）的店家聚集於此，故又名「飴橫丁」。
 
-![阿美橫町](/img/2025tokyo/asakusa/ameyoko.jpg)
+![阿美橫町](ameyoko.jpg)
 
 這裡是日本人也愛逛的下町地區，充滿了居酒屋、糖果、藥妝、生鮮魚肉類、以及美式復古服裝的店家。
 
@@ -56,7 +56,7 @@ description: "這次我們來到淺草及上野地區，感受當地人文風情
 
 如果對逛街購物比較沒興趣的讀者，上野這邊往北走有一個**上野恩賜公園**，在當地已有140年的歷史，裡面包含了博物館、美術館、動物園，還有景觀優美的不忍池，到了櫻花開的季節也是著名的賞櫻地點。
 
-![上野恩賜公園](/img/2025tokyo/asakusa/park.jpg)
+![上野恩賜公園](park.jpg)
 
 ### 感想
 

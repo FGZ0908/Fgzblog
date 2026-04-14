@@ -3,7 +3,7 @@ title: "東京迪士尼海洋攻略─遊玩流程及美食分享"
 date: 2025-09-30T23:07:48+08:00
 draft: flase
 cover:
-    image: "/img/2025tokyo/cover.jpg"
+    image: "cover.jpg"
     alt: ""
     caption: "在地心探險設施拍的一張照片"
 categories: 
@@ -41,14 +41,14 @@ description: "接續上一篇，這篇聊聊東京迪士尼海洋樂園的遊玩
 迪士尼的園區美食和遊樂設施一樣值得您花時間品嚐，以下推薦五個我覺得值得一吃的食物。
 
 1. 路邊小吃─提拉米蘇雪糕：這個小吃很多園區內的攤販都有販售，口感扎實，巧克力與冰淇淋融合的味道很和諧，價位親民（但我價錢忘記了），如果逛園區有看到很建議買來吃看看。
-![提拉米蘇](/img/2025tokyo/disney_cake.jpg)
+![提拉米蘇](disney_cake.jpg)
 2. [米老鼠造型吉拿棒](https://www.tokyodisneyresort.jp/en/food/1632/)：一樣是園區多個地方有販售，酥脆的吉拿棒，逛遊樂園拋開熱量吃點甜甜的東西讓整體感受很美好，而且有米老鼠的造型拍照非常好看～
-![米老鼠吉拿棒](/img/2025tokyo/churro.jpg)
+![米老鼠吉拿棒](churro.jpg)
 3. [三眼怪麻糬](https://www.tokyodisneyresort.jp/en/food/1779/)：玩具總動員裡可愛的三眼怪做成麻糬的造型超適合！三個麻糬口味都不同，好像分別是巧克力、草莓和卡士達醬，口感有Q彈，吃完還想再買一份～
-![三眼怪麻糬](/img/2025tokyo/threeeyes.jpg)
+![三眼怪麻糬](threeeyes.jpg)
 4. [海星披薩](https://www.tokyodisneyresort.jp/en/food/3954/)、[塔可](https://www.tokyodisneyresort.jp/en/food/3983/)：位在小美人魚遊樂園的餐廳，將圓形的披薩改造成海星的形狀，拍照很上相，而且這間餐廳位置優良裡面冷氣很強，夏天去超舒服，只是這間餐廳超熱門位置要稍微等待一下才有得坐。
-![海星披薩](/img/2025tokyo/starpizza.jpg)
-![塔可](/img/2025tokyo/tuco.jpg)
+![海星披薩](starpizza.jpg)
+![塔可](tuco.jpg)
 
 ### 最後的小提醒
 

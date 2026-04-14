@@ -3,7 +3,7 @@ title: "日本牛仔褲介紹與分享—Momotaro桃太郎牛仔褲"
 date: 2025-11-12T13:17:54+08:00
 draft: false
 cover:
-    image: "/img/momotaro/cover.jpg"
+    image: "cover.jpg"
     alt: ""
     caption: "Momotaro日本製原牛"
 categories: 
@@ -57,27 +57,27 @@ description: "聊聊牛仔褲"
 
 牛仔褲正面，因為使用傳統織布機，可以依稀看出布面上有點些微的直條紋顏色變化。
 
-![正面](/img/momotaro/front.jpg)
+![正面](front.jpg)
 
 牛仔褲背面，這件屬於寬鬆直筒風格
 
-![背面](/img/momotaro/back.jpg)
+![背面](back.jpg)
 
 二本線的口袋（二本日文是Nippon，與日本發音相似，低調宣揚日本文化）
 
-![口袋](/img/momotaro/pocket.jpg)
+![口袋](pocket.jpg)
 
 褲子內裡的日本製標示
 
-![日本製標示](/img/momotaro/inside.jpg)
+![日本製標示](inside.jpg)
 
 皮標，特別後經過穿著之後也會養成特殊顏色
 
-![皮標](/img/momotaro/leather.jpg)
+![皮標](leather.jpg)
 
 赤耳，因為以前織布機受限於大小，褲子要用兩塊布縫製而成，最終造成有布邊的顏色出現，現代技術進步但為了復古造型依舊留存這個記號，桃太郎的與別家不同是桃紅色的，應該算是桃耳哈哈
 
-![赤耳or桃耳](/img/momotaro/pink.jpg)
+![赤耳or桃耳](pink.jpg)
 
 ### 結語
 

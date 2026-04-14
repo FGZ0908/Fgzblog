@@ -3,7 +3,7 @@ title: 東京迪士尼海洋樂園心得—推薦五個遊樂設施
 date: 2025-09-24T21:45:48+08:00
 draft: false
 cover:
-  image: /img/2025tokyo/disneysea.jpg
+  image: disneysea.jpg
   alt: ""
   caption: ""
 categories:
