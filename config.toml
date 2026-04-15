@@ -123,7 +123,7 @@ name = "RSS"
 url = "index.xml"
 
 [permalinks]
-posts = "/:year/:month/:slug/"
+posts = "/posts/:contentbasename/"
 
 [privacy.instagram]
 disabled = false
