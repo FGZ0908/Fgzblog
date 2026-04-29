@@ -13,7 +13,7 @@ echo "開始處理目錄: $TARGET_DIR"
 # 遞迴搜尋並處理圖片
 find "$TARGET_DIR" -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" \) -print0 | while IFS= read -r -d '' file; do
     echo "正在優化: $file"
-    mogrify -strip -resize 1200\> -define jpeg:extent=200kb "$file"
+    mogrify -strip -resize 1100\> -define jpeg:extent=200kb "$file"
 done
 
 echo "完成！"
