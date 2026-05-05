@@ -8,7 +8,7 @@ enableEmoji = true
 enableInlineShortcodes = true
 enablerobotsTXT = true
 hasCJKLanguage = true
-languageCode = "zh-tw"
+locale = "zh-TW"
 theme = "PaperMod"
 title = "范剛哲的部落格"
 
