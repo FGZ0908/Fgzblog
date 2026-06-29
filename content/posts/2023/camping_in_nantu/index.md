@@ -1,6 +1,6 @@
 ---
 title: "泊樂熊村—南投懶人露營體驗"
-date: "2023-12-02T21:48:01+08:00"
+date: 2023-12-02T21:48:01+08:00
 draft: false
 cover:
     image: "camping_cover.jpg"
