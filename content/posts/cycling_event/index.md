@@ -2,7 +2,7 @@
 title: "自行車活動初體驗！輪轉台灣百K單車挑戰賽—台中站"
 date: 2026-07-19T21:09:52+08:00
 slug: ""
-draft: true
+draft: false
 cover:
     image: "set-off.JPG"
     alt: ""
